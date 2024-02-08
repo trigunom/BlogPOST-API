@@ -112,5 +112,5 @@ Here the value of any parameter(Key) can be updated
 
 ## UI
 
-![Web Page Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Web Page Screenshot](public/screenshot.png)
 
