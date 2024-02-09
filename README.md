@@ -1,7 +1,7 @@
 
 # **BlogPost Web App**
 
-A simple web application for managing blog posts using Node.js, EJS, and an in-memory data store.
+A simple web application for managing blog posts using Node.js, EJS, and an in-memory data store(No DataBase).
 
 
 ## Features
